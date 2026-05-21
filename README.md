@@ -1,7 +1,7 @@
 # Lavagna Kanban - Programmazione con Socket in C
 
-![Lavagna all'avvio](lavagna.png)
-![Lavagna in esecuzione](esecuzione.png)
+![Lavagna all'avvio](img/lavagna.png)
+![Lavagna in esecuzione](img/esecuzione.png)
 
 ## Descrizione
 Applicazione distribuita sviluppata in **C** per simulare la gestione del lavoro tramite il metodo Kanban. 
